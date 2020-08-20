@@ -7,7 +7,6 @@ nav {
 /* 'About me' image media query */
 @media screen and (max-width: 992px) {
     .image-margin {
-        
         margin-bottom: 20px;
     }
 }
