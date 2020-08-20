@@ -22,6 +22,12 @@ nav {
 }
 /* End Portfolio 'Thumbnail' image media query */
 
+/* Contact 'bee-thumbnail' */
+.bee-thumbnail {
+    width: 28%;
+    margin-top: 20px;
+}
+
 /* Footer */
 .social-media i {
     font-size: 16px;
