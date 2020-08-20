@@ -1,7 +1,24 @@
+/* Header */
 
+nav {
+    margin-bottom: 40px;
+}
+
+/* End Header */
+
+/* 'About me' image media query */
 @media screen and (max-width: 992px) {
     .image-margin {
         margin-bottom: 20px;
+    }
+}
+
+/* End 'About me' image media query */
+
+@media screen and (max-width: 576px) {
+    .thumbnail-margin {
+        display flex; justify-content: space-around;
+        margin-bottom: 40px;
     }
 }
 
@@ -21,3 +38,5 @@ footer p.copyright {
     font-size: 10px;
     text-align: center;
 }
+
+/* End Footer */
