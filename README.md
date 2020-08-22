@@ -4,9 +4,13 @@
 
 ## Description
 
-In this assignment, using Bootstrap, my goals were as follows:
+Submission for my second assignment within the Full-Stack Web Development Coding Bootcamp via University of Arizona. 
+
+In this assignment, I was tasked with creating a portfolio site using Bootstrap.
+
+My goals were as follows:
 * Develop a portfolio site with...
-    * A Navbar
+    * A Navbar (on every page)
     * A responsive layout
     * Responsive Images
 * Use Bootstrap's grid system (containers, rows, columns)
@@ -17,4 +21,5 @@ I approached this assignment knowing that I wanted to challenge myself. I feel f
 
 I used a Bootswatch theme to give my site a different look that the 'out of the box' Bootstrap code. I modeled my pages off of the given examples provided by my instructor, and took some creative licensing/influence from other website and examples I found in my search for portfolio sites. 
 
-This was a pretty challenging assignment for me. I have
+This was a fairly challenging assignment for me. It was important to me to color outside of the lines, a little bit, in order to have an understanding of the limitations within Bootstrap. 
+
