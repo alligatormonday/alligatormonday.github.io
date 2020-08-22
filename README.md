@@ -15,7 +15,8 @@ My goals were as follows:
     * Responsive Images
 * Use Bootstrap's grid system (containers, rows, columns)
 * Use semantic HTML elements that follow a logical structure
-* Properly use Bootstrap components and grid system 
+* Properly use Bootstrap components and grid system
+* Valid and correct HTML (use verification service) 
 
 I approached this assignment knowing that I wanted to challenge myself. I feel fairly comfortable using Bootstrap and I feel that I've demonstrated a beginners comprehension of this framework. 
 
