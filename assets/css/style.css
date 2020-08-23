@@ -3,7 +3,6 @@ nav {
     margin-bottom: 40px;
 }
 /* End Header */
-
 /* 'About me' image media query */
 @media screen and (max-width: 992px) {
     .image-margin {
@@ -11,7 +10,6 @@ nav {
     }
 }
 /* End 'About me' image media query */
-
 /* Portfolio 'Thumbnail' image media query */
 @media screen and (max-width: 576px) {
     .thumbnail-margin {
@@ -21,18 +19,15 @@ nav {
     }
 }
 /* End Portfolio 'Thumbnail' image media query */
-
 /* Footer */
 .social-media i {
     font-size: 16px;
     margin: 12px;
     padding-top: 10px;
 }
-
 .social-media i:hover {
     color: rgba(206, 202, 202, 0.2)
 }
-
 footer p.copyright {
     font-size: 10px;
     text-align: center;
