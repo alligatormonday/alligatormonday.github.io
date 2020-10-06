@@ -6,6 +6,12 @@
 
 * Bootstrap v4.5.2
 
+## Deployment
+
+![Image of About Page](https://i.imgur.com/ZIrPYYa.png)
+
+View deployment: [alligatormonday.github.io](https://alligatormonday.github.io/)
+
 ## Description
 
 Submission for my second assignment within the Full-Stack Web Development Coding Bootcamp via University of Arizona. 
