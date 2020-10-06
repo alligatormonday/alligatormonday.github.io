@@ -2,7 +2,24 @@
 
 ## Author: alligatormonday (Joseph Jepson)
 
+## Technologies Used
+
+* Bootstrap v4.5.2
+
+## Deployment
+
+![Image of About Page](https://i.imgur.com/ZIrPYYa.png)
+
+![Image of Portfolio Page](https://i.imgur.com/zqAcxK8.png)
+
+![Image of Contact Page](https://i.imgur.com/4cqkQ4O.png)
+
+View deployment: [alligatormonday.github.io](https://alligatormonday.github.io/)
+
 ## Description
+
+**_UPDATE:_**
+_10/05/2020_ - _Newly updated portfolio page featuring resume and recent class projects with deployed links/Git Repos._
 
 Submission for my second assignment within the Full-Stack Web Development Coding Bootcamp via University of Arizona. 
 
