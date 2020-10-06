@@ -2,6 +2,10 @@
 
 ## Author: alligatormonday (Joseph Jepson)
 
+## Technologies Used
+
+* Bootstrap v4.5.2
+
 ## Description
 
 Submission for my second assignment within the Full-Stack Web Development Coding Bootcamp via University of Arizona. 
