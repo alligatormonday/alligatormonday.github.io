@@ -1,8 +1,20 @@
+
+
 /* Header */
 nav {
     margin-bottom: 40px;
+    font-family: 'Roboto Mono', monospace;
 }
 /* End Header */
+
+p {
+    color: rgb(195, 195, 195);
+    font-size: x-large;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+}
 
 /* 'About me' image media query */
 @media screen and (max-width: 992px) {
@@ -38,15 +50,24 @@ nav {
 
 /* Footer */
 .social-media i {
-    font-size: 16px;
+    font-size: 30px;
     margin: 12px;
     padding-top: 10px;
 }
 .social-media i:hover {
     color: rgba(206, 202, 202, 0.2)
 }
+
+.icon {
+    font-size: 80px;
+}
+
+.tools {
+    color: #2b9fd6;
+}
 footer p.copyright {
     font-size: 10px;
     text-align: center;
 }
 /* End Footer */
+

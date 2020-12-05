@@ -11,21 +11,28 @@
         href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <!-- Added custom free theme 'Slate' via bootswatch.com  -->
-    <link href="https://bootswatch.com/4/slate/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="https://bootswatch.com/4/cyborg/bootstrap.css" rel="stylesheet" type="text/css">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <!-- Devicon link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
     <!-- Added custom CSS to allow for media query and styling -->
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    
+
+
 
     <title>Joseph Jepson Portfolio</title>
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-collapse navbar-dark bg-dark justify-content-around">
         <a class="navbar-brand" href="index.html">Joseph Jepson</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02"
             aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse justify-content-end" id="navbarColor02">
+        <div class="collapse navbar-collapse" id="navbarColor02">
             <ul class="navbar-nav">
                 <li class="nav-item active">
                     <a class="nav-link" href="index.html">About<span class="sr-only">(current)</span></a>
@@ -43,42 +50,65 @@
         </div>
     </nav>
     <div class="container">
+        <div class="row">
+            <div class="col d-flex justify-content-center">
+                <h4>Hello,</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col d-flex justify-content-center">
+                <h4>my name is Joseph Jepson</h4>
+            </div>
+        </div>
+        
         <div class="jumbotron">
             <div class="row">
-                <div class="col-md-12 d-flex justify-content-start">
-                    <div class="page-header">
-                        <h1 class="display-4">About Me</h1>
-                        <hr class="my-4">
-                    </div>
+                <div class="col-lg-6">
+                    <img src="assets/images/Profile Photo.jpg" alt="Tin-type photograph of Joseph Jepson" class="img-fluid shadow">
+                </div>
+                <div class="col-lg-6 col-lg-6 pt-4">
+                    <p> I am a Full-Stack Web Developer.
+                    </p>
+                    <p>Currently working in the healthcare industry for Donor Network of Arizona, a federally designated, nonprofit organ procurement organization.</p>
+                    <p>Checkout my <a href="portfolio.html">portfolio</a> to see recent projects that I have worked on.</p>
+                    <p>Take a look at my <a href="assets/DEVELOPER_RESUME_2020.pdf" target="_blank">resume</a> and <a href="https://github.com/alligatormonday" target="_blank">GitHub</a> for a more comprehensive overview of my experience. 
+                    </p>
+                    <p>If you would like to say hi, you can get in <a href="contact.html">contact</a>  with me by phone or email!</p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 col-lg-5 img-fluid image-margin">
-                    <img src="assets/images/Profile Photo.jpg" alt="Tin-type photograph of Joseph Jepson"
-                        class="img-thumbnail">
+                <div class="col d-flex justify-content-center pt-4">
+                    <h4 class="tools">Experience with</h4>
                 </div>
-                <div class="col-sm-6 col-lg-6">
-                    <p> Hello, I am a student via the University of Arizona - Coding Bootcamp with a
-                        specific focus in Full-Stack Web Development.
-                    </p>
-                    <p>I'm in my ninth week of class. In this short time, I have gained technical skills and
-                        understanding of the following languages, libraries, frameworks, and programming interfaces.</p>
-                    <ul>
-                        <li>HTML</li>
-                        <li>CSS</li>
-                        <li>JavaScript</li>
-                        <li>JSON</li>
-                        <li>jQuery</li>
-                        <li>Node.js</li>
-                        <li>Bootstrap</li>
-                        <li>Materialize</li>
-                        <li>Client & Server-side Web APIs</li>
-                    </ul>
-                    <p>So far, I have completed my first group project, as well as some challenging homework
-                        assignments.</p>
-                    <p>Come check out my portfolio and GitHub! It's been an exciting few weeks, and I can't wait to show
-                        you everything I've learned.
-                    </p>
+            </div>
+            <div class="row">
+                <div class="col d-flex justify-content-between pt-4">
+                    <i class="devicon-apple-original icon"></i>
+                    <i class="devicon-bootstrap-plain-wordmark icon"></i>
+                    <i class="devicon-css3-plain-wordmark icon"></i>
+                    <i class="devicon-express-original-wordmark icon"></i>
+                    <i class="devicon-git-plain-wordmark icon"></i>
+                    <i class="devicon-handlebars-plain-wordmark icon"></i>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col d-flex justify-content-between pt-4">
+                    <i class="devicon-heroku-plain-wordmark icon"></i>
+                    <i class="devicon-html5-plain-wordmark icon"></i>
+                    <i class="devicon-javascript-plain icon"></i>
+                    <i class="devicon-jquery-plain-wordmark icon"></i>
+                    <i class="devicon-mongodb-plain-wordmark icon"></i>
+                    <i class="devicon-mysql-plain-wordmark icon"></i>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col d-flex justify-content-between pt-4">
+                    <i class="devicon-nodejs-plain-wordmark icon"></i>
+                    <i class="devicon-npm-original-wordmark icon"></i>
+                    <i class="devicon-photoshop-line icon"></i>
+                    <i class="devicon-sequelize-plain-wordmark icon"></i>
+                    <i class="devicon-travis-plain-wordmark icon"></i>
+                    <i class="devicon-visualstudio-plain-wordmark icon"></i>
                 </div>
             </div>
         </div>
@@ -95,7 +125,8 @@
                         <a href="https://github.com/alligatormonday" target="_blank"><i class="fab fa-github"></i></a>
                     </div>
                     <div class="col-lg-12 mt-3">
-                        <p class="copyright">&#169; Joseph Jepson 2020. All Rights Reserved</p>
+                        <p class="copyright">Handcrafted by me &#169; 2020. All Rights Reserved</p>
+                        <p class="copyright">Built with Bootstrap</p>
                     </div>
                 </div>
             </div>
