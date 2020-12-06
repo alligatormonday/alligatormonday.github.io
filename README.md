@@ -12,12 +12,15 @@ View deployment: [alligatormonday.github.io](https://alligatormonday.github.io/)
 
 ## Description
 
-**_UPDATE:_**
-_10/05/2020_ - _Newly updated portfolio page featuring resume and recent class projects with deployed links/Git Repos._
+**_UPDATES:_**
 
-Submission for my second assignment within the Full-Stack Web Development Coding Bootcamp via University of Arizona. 
+_12/05/2020_ - Updated portfolio page and resume to featuring recent class projects!
 
-In this assignment, I was tasked with creating a responsive portfolio site using Bootstrap.
+~~_10/05/2020_ - _Newly updated portfolio page featuring resume and recent class projects with deployed links/Git Repos._~~
+
+~~Submission for my second assignment within the Full-Stack Web Development Coding Bootcamp via University of Arizona.~~
+
+~~In this assignment, I was tasked with creating a responsive portfolio site using Bootstrap.~~
 
 My goals were as follows:
 * Develop a portfolio site with...
