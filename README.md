@@ -8,12 +8,6 @@
 
 ## Deployment
 
-![Image of About Page](https://i.imgur.com/ZIrPYYa.png)
-
-![Image of Portfolio Page](https://i.imgur.com/zqAcxK8.png)
-
-![Image of Contact Page](https://i.imgur.com/4cqkQ4O.png)
-
 View deployment: [alligatormonday.github.io](https://alligatormonday.github.io/)
 
 ## Description

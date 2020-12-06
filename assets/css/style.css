@@ -70,6 +70,12 @@ body {
     font-size: 30px;
 }
 
+.img-thumbnail {
+    width: 350px;
+    height: 300px;
+    margin-top: 20px;
+}
+
 footer p.copyright {
     font-size: 12px;
     text-align: center;
