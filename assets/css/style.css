@@ -65,8 +65,13 @@ body {
 .tools {
     color: #2b9fd6;
 }
+
+.social {
+    font-size: 30px;
+}
+
 footer p.copyright {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
 }
 /* End Footer */
